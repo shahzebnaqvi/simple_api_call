@@ -1,7 +1,6 @@
 name: simple_api_call
 description: A simple package for API calling and data persistence.
 version: 1.0.0
-author: Shahzeb Naqvi
 homepage: https://github.com/shahzebnaqvi/simple_api_call
 
 # The following line prevents the package from being accidentally published to
