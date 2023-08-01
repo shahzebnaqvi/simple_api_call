@@ -2,6 +2,8 @@
 
 Simple API Call
 
+## 1.0.0
+
 
 ```ruby
 
